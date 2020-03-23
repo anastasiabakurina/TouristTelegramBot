@@ -15,3 +15,7 @@ to add city and info about it or change, delete you can use Postman
 ![screenshot1](/img/3.png)
 ![screenshot1](/img/4.png)
 ![screenshot1](/img/5.png)
+
+
+telegram bot name: InfoForTouristAboutCity_bot
+token: 1114481172:AAE4CzcqSIiw71AHpEdL0XW6yMMynwa_6vw
