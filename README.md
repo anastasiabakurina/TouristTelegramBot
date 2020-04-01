@@ -1,3 +1,7 @@
+
+RESTful application.
+A telegram bot that provides reference information from the database about the entered city. City data management (crud operations) via REST WebService.
+
 to run the program you should:
 
 1. open file initDb.sql, create and populate table database (postgres, settings in application.properties)
